@@ -1,18 +1,7 @@
-## Getting Started
+## Ternary Operator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Is a simple structure to know if a student approved the school. From the number 0 to 10. In comparison with most of Hispanic countries, it is mostly used the numbers from zero to ten, when 6 is the minimum required to approve the school &/or subject.
 
-## Folder Structure
+## English & Spanish!
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The project is in both english & spanish.
